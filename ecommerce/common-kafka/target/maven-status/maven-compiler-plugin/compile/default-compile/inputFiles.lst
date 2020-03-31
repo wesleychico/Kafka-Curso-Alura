@@ -1,0 +1,5 @@
+/home/chico/Documentos/Projetos/Java-Formacao-Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonSerializer.java
+/home/chico/Documentos/Projetos/Java-Formacao-Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonDeserializer.java
+/home/chico/Documentos/Projetos/Java-Formacao-Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
+/home/chico/Documentos/Projetos/Java-Formacao-Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/chico/Documentos/Projetos/Java-Formacao-Alura/ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
